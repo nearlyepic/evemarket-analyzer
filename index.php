@@ -16,7 +16,6 @@
 <br/>
 	<div class="jumbotron">
 		<h2>Sign in</h2>
-		<!--<h3><?php printf("%s", $_SERVER['QUERY_STRING']); ?></h3>--!>
 		<form id="login">
 			<div class="form-group">
 				<label for="email_1">Email</label>
