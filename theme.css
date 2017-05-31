@@ -1,0 +1,11 @@
+body {
+	background-color:#18191B;
+}
+.jumbotron {
+	margin:0 auto;
+	max-width:500px;
+	/*max-height:300px;*/
+}
+#loginError {
+	visibility:hidden;
+}
